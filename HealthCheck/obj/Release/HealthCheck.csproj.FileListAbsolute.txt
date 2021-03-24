@@ -1,0 +1,118 @@
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\bin\Release\HealthCheck.exe.config
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\bin\Release\HealthCheck.exe
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\bin\Release\HealthCheck.pdb
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Release\HealthCheck.csprojAssemblyReference.cache
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Release\HealthCheck.csproj.ResolveComReference.cache
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Release\EmployeeScreening.g.cs
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Release\MainWindow.g.cs
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Release\VisitorRegister.g.cs
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Release\VisitorScreening.g.cs
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Release\App.g.cs
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Release\HealthCheck_MarkupCompile.cache
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Release\HealthCheck_MarkupCompile.lref
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Release\EmployeeScreening.baml
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Release\MainWindow.baml
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Release\VisitorRegister.baml
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Release\VisitorScreening.baml
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Release\HealthCheck.g.resources
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Release\HealthCheck.Properties.Resources.resources
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Release\HealthCheck.csproj.GenerateResource.cache
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Release\HealthCheck.csproj.CoreCompileInputs.cache
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Release\HealthCheck.exe
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Release\HealthCheck.pdb
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\bin\Release\HealthCheck.exe.config
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\bin\Release\HealthCheck.exe
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\bin\Release\HealthCheck.pdb
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Release\HealthCheck.csprojAssemblyReference.cache
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Release\HealthCheck.csproj.ResolveComReference.cache
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Release\EmployeeScreening.g.cs
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Release\MainWindow.g.cs
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Release\VisitorRegister.g.cs
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Release\VisitorScreening.g.cs
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Release\App.g.cs
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Release\HealthCheck_MarkupCompile.cache
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Release\HealthCheck_MarkupCompile.lref
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Release\EmployeeScreening.baml
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Release\MainWindow.baml
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Release\VisitorRegister.baml
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Release\VisitorScreening.baml
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Release\HealthCheck.g.resources
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Release\HealthCheck.Properties.Resources.resources
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Release\HealthCheck.csproj.GenerateResource.cache
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Release\HealthCheck.csproj.CoreCompileInputs.cache
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Release\HealthCheck.exe
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Release\HealthCheck.pdb
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Release\MessageBox.g.cs
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Release\MessageBox.baml
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\bin\Release\HealthCheck.exe.config
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\bin\Release\HealthCheck.exe
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\bin\Release\HealthCheck.pdb
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Release\HealthCheck.csprojAssemblyReference.cache
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Release\HealthCheck.csproj.ResolveComReference.cache
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Release\EmployeeScreening.g.cs
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Release\MainWindow.g.cs
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Release\MessageBox.g.cs
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Release\VisitorRegister.g.cs
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Release\VisitorScreening.g.cs
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Release\App.g.cs
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Release\HealthCheck_MarkupCompile.cache
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Release\HealthCheck_MarkupCompile.lref
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Release\EmployeeScreening.baml
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Release\MainWindow.baml
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Release\MessageBox.baml
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Release\VisitorRegister.baml
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Release\VisitorScreening.baml
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Release\HealthCheck.g.resources
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Release\HealthCheck.Properties.Resources.resources
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Release\HealthCheck.csproj.GenerateResource.cache
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Release\HealthCheck.csproj.CoreCompileInputs.cache
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Release\HealthCheck.exe
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Release\HealthCheck.pdb
+C:\Users\Paul\Desktop\Number 2\HealthCheck\HealthCheck\bin\Release\HealthCheck.exe.config
+C:\Users\Paul\Desktop\Number 2\HealthCheck\HealthCheck\bin\Release\HealthCheck.exe
+C:\Users\Paul\Desktop\Number 2\HealthCheck\HealthCheck\bin\Release\HealthCheck.pdb
+C:\Users\Paul\Desktop\Number 2\HealthCheck\HealthCheck\obj\Release\HealthCheck.csprojAssemblyReference.cache
+C:\Users\Paul\Desktop\Number 2\HealthCheck\HealthCheck\obj\Release\HealthCheck.csproj.ResolveComReference.cache
+C:\Users\Paul\Desktop\Number 2\HealthCheck\HealthCheck\obj\Release\EmployeeScreening.g.cs
+C:\Users\Paul\Desktop\Number 2\HealthCheck\HealthCheck\obj\Release\MainWindow.g.cs
+C:\Users\Paul\Desktop\Number 2\HealthCheck\HealthCheck\obj\Release\MessageBox.g.cs
+C:\Users\Paul\Desktop\Number 2\HealthCheck\HealthCheck\obj\Release\VisitorRegister.g.cs
+C:\Users\Paul\Desktop\Number 2\HealthCheck\HealthCheck\obj\Release\VisitorScreening.g.cs
+C:\Users\Paul\Desktop\Number 2\HealthCheck\HealthCheck\obj\Release\App.g.cs
+C:\Users\Paul\Desktop\Number 2\HealthCheck\HealthCheck\obj\Release\HealthCheck_MarkupCompile.cache
+C:\Users\Paul\Desktop\Number 2\HealthCheck\HealthCheck\obj\Release\HealthCheck_MarkupCompile.lref
+C:\Users\Paul\Desktop\Number 2\HealthCheck\HealthCheck\obj\Release\EmployeeScreening.baml
+C:\Users\Paul\Desktop\Number 2\HealthCheck\HealthCheck\obj\Release\MainWindow.baml
+C:\Users\Paul\Desktop\Number 2\HealthCheck\HealthCheck\obj\Release\MessageBox.baml
+C:\Users\Paul\Desktop\Number 2\HealthCheck\HealthCheck\obj\Release\VisitorRegister.baml
+C:\Users\Paul\Desktop\Number 2\HealthCheck\HealthCheck\obj\Release\VisitorScreening.baml
+C:\Users\Paul\Desktop\Number 2\HealthCheck\HealthCheck\obj\Release\HealthCheck.g.resources
+C:\Users\Paul\Desktop\Number 2\HealthCheck\HealthCheck\obj\Release\HealthCheck.Properties.Resources.resources
+C:\Users\Paul\Desktop\Number 2\HealthCheck\HealthCheck\obj\Release\HealthCheck.csproj.GenerateResource.cache
+C:\Users\Paul\Desktop\Number 2\HealthCheck\HealthCheck\obj\Release\HealthCheck.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Desktop\Number 2\HealthCheck\HealthCheck\obj\Release\HealthCheck.exe
+C:\Users\Paul\Desktop\Number 2\HealthCheck\HealthCheck\obj\Release\HealthCheck.pdb
+C:\Users\Paul\source\repos\HealthCheck\HealthCheck\bin\Release\HealthCheck.exe.config
+C:\Users\Paul\source\repos\HealthCheck\HealthCheck\bin\Release\HealthCheck.exe
+C:\Users\Paul\source\repos\HealthCheck\HealthCheck\bin\Release\HealthCheck.pdb
+C:\Users\Paul\source\repos\HealthCheck\HealthCheck\obj\Release\HealthCheck.csprojAssemblyReference.cache
+C:\Users\Paul\source\repos\HealthCheck\HealthCheck\obj\Release\HealthCheck.csproj.ResolveComReference.cache
+C:\Users\Paul\source\repos\HealthCheck\HealthCheck\obj\Release\EmployeeScreening.g.cs
+C:\Users\Paul\source\repos\HealthCheck\HealthCheck\obj\Release\MainWindow.g.cs
+C:\Users\Paul\source\repos\HealthCheck\HealthCheck\obj\Release\MessageBox.g.cs
+C:\Users\Paul\source\repos\HealthCheck\HealthCheck\obj\Release\VisitorRegister.g.cs
+C:\Users\Paul\source\repos\HealthCheck\HealthCheck\obj\Release\VisitorScreening.g.cs
+C:\Users\Paul\source\repos\HealthCheck\HealthCheck\obj\Release\App.g.cs
+C:\Users\Paul\source\repos\HealthCheck\HealthCheck\obj\Release\HealthCheck_MarkupCompile.cache
+C:\Users\Paul\source\repos\HealthCheck\HealthCheck\obj\Release\HealthCheck_MarkupCompile.lref
+C:\Users\Paul\source\repos\HealthCheck\HealthCheck\obj\Release\EmployeeScreening.baml
+C:\Users\Paul\source\repos\HealthCheck\HealthCheck\obj\Release\MainWindow.baml
+C:\Users\Paul\source\repos\HealthCheck\HealthCheck\obj\Release\MessageBox.baml
+C:\Users\Paul\source\repos\HealthCheck\HealthCheck\obj\Release\VisitorRegister.baml
+C:\Users\Paul\source\repos\HealthCheck\HealthCheck\obj\Release\VisitorScreening.baml
+C:\Users\Paul\source\repos\HealthCheck\HealthCheck\obj\Release\HealthCheck.g.resources
+C:\Users\Paul\source\repos\HealthCheck\HealthCheck\obj\Release\HealthCheck.Properties.Resources.resources
+C:\Users\Paul\source\repos\HealthCheck\HealthCheck\obj\Release\HealthCheck.csproj.GenerateResource.cache
+C:\Users\Paul\source\repos\HealthCheck\HealthCheck\obj\Release\HealthCheck.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\HealthCheck\HealthCheck\obj\Release\HealthCheck.exe
+C:\Users\Paul\source\repos\HealthCheck\HealthCheck\obj\Release\HealthCheck.pdb

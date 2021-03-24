@@ -1,0 +1,135 @@
+C:\Users\Tumelo\source\repos\HealthCheck\HealthCheck\bin\Debug\HealthCheck.exe.config
+C:\Users\Tumelo\source\repos\HealthCheck\HealthCheck\bin\Debug\HealthCheck.exe
+C:\Users\Tumelo\source\repos\HealthCheck\HealthCheck\bin\Debug\HealthCheck.pdb
+C:\Users\Tumelo\source\repos\HealthCheck\HealthCheck\obj\Debug\MainWindow.g.cs
+C:\Users\Tumelo\source\repos\HealthCheck\HealthCheck\obj\Debug\App.g.cs
+C:\Users\Tumelo\source\repos\HealthCheck\HealthCheck\obj\Debug\HealthCheck_MarkupCompile.cache
+C:\Users\Tumelo\source\repos\HealthCheck\HealthCheck\obj\Debug\HealthCheck_MarkupCompile.lref
+C:\Users\Tumelo\source\repos\HealthCheck\HealthCheck\obj\Debug\MainWindow.baml
+C:\Users\Tumelo\source\repos\HealthCheck\HealthCheck\obj\Debug\HealthCheck.g.resources
+C:\Users\Tumelo\source\repos\HealthCheck\HealthCheck\obj\Debug\HealthCheck.Properties.Resources.resources
+C:\Users\Tumelo\source\repos\HealthCheck\HealthCheck\obj\Debug\HealthCheck.csproj.GenerateResource.cache
+C:\Users\Tumelo\source\repos\HealthCheck\HealthCheck\obj\Debug\HealthCheck.csproj.CoreCompileInputs.cache
+C:\Users\Tumelo\source\repos\HealthCheck\HealthCheck\obj\Debug\HealthCheck.exe
+C:\Users\Tumelo\source\repos\HealthCheck\HealthCheck\obj\Debug\HealthCheck.pdb
+C:\Users\Tumelo\source\repos\HealthCheck\HealthCheck\obj\Debug\EmployeeScreening.g.cs
+C:\Users\Tumelo\source\repos\HealthCheck\HealthCheck\obj\Debug\EmployeeScreening.baml
+C:\Users\Tumelo\source\repos\HealthCheck\HealthCheck\obj\Debug\VisitorRegister.g.cs
+C:\Users\Tumelo\source\repos\HealthCheck\HealthCheck\obj\Debug\VisitorRegister.baml
+C:\Users\Tumelo\source\repos\HealthCheck\HealthCheck\obj\Debug\VisitorScreening.g.cs
+C:\Users\Tumelo\source\repos\HealthCheck\HealthCheck\obj\Debug\VisitorScreening.baml
+C:\Users\Tumelo\source\repos\HealthCheck\HealthCheck\obj\Debug\HealthCheck.csproj.ResolveComReference.cache
+C:\Users\Tumelo\source\repos\HealthCheck\HealthCheck\obj\Debug\HealthCheck.csprojAssemblyReference.cache
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\bin\Debug\HealthCheck.exe.config
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\bin\Debug\HealthCheck.exe
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\bin\Debug\HealthCheck.pdb
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Debug\HealthCheck.csproj.ResolveComReference.cache
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Debug\EmployeeScreening.g.cs
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Debug\MainWindow.g.cs
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Debug\VisitorRegister.g.cs
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Debug\VisitorScreening.g.cs
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Debug\App.g.cs
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Debug\HealthCheck_MarkupCompile.cache
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Debug\HealthCheck_MarkupCompile.lref
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Debug\EmployeeScreening.baml
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Debug\MainWindow.baml
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Debug\VisitorRegister.baml
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Debug\VisitorScreening.baml
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Debug\HealthCheck.g.resources
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Debug\HealthCheck.Properties.Resources.resources
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Debug\HealthCheck.csproj.GenerateResource.cache
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Debug\HealthCheck.csproj.CoreCompileInputs.cache
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Debug\HealthCheck.exe
+C:\Users\Lesley\Desktop\HealthCheck\HealthCheck\obj\Debug\HealthCheck.pdb
+G:\CV\HealthCheck\HealthCheck\bin\Debug\HealthCheck.exe.config
+G:\CV\HealthCheck\HealthCheck\bin\Debug\HealthCheck.exe
+G:\CV\HealthCheck\HealthCheck\bin\Debug\HealthCheck.pdb
+G:\CV\HealthCheck\HealthCheck\obj\Debug\HealthCheck.csprojAssemblyReference.cache
+G:\CV\HealthCheck\HealthCheck\obj\Debug\HealthCheck.csproj.ResolveComReference.cache
+G:\CV\HealthCheck\HealthCheck\obj\Debug\EmployeeScreening.g.cs
+G:\CV\HealthCheck\HealthCheck\obj\Debug\MainWindow.g.cs
+G:\CV\HealthCheck\HealthCheck\obj\Debug\VisitorRegister.g.cs
+G:\CV\HealthCheck\HealthCheck\obj\Debug\VisitorScreening.g.cs
+G:\CV\HealthCheck\HealthCheck\obj\Debug\App.g.cs
+G:\CV\HealthCheck\HealthCheck\obj\Debug\HealthCheck_MarkupCompile.cache
+G:\CV\HealthCheck\HealthCheck\obj\Debug\HealthCheck_MarkupCompile.lref
+G:\CV\HealthCheck\HealthCheck\obj\Debug\EmployeeScreening.baml
+G:\CV\HealthCheck\HealthCheck\obj\Debug\MainWindow.baml
+G:\CV\HealthCheck\HealthCheck\obj\Debug\VisitorRegister.baml
+G:\CV\HealthCheck\HealthCheck\obj\Debug\VisitorScreening.baml
+G:\CV\HealthCheck\HealthCheck\obj\Debug\HealthCheck.g.resources
+G:\CV\HealthCheck\HealthCheck\obj\Debug\HealthCheck.Properties.Resources.resources
+G:\CV\HealthCheck\HealthCheck\obj\Debug\HealthCheck.csproj.GenerateResource.cache
+G:\CV\HealthCheck\HealthCheck\obj\Debug\HealthCheck.csproj.CoreCompileInputs.cache
+G:\CV\HealthCheck\HealthCheck\obj\Debug\HealthCheck.exe
+G:\CV\HealthCheck\HealthCheck\obj\Debug\HealthCheck.pdb
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\HealthCheck\HealthCheck\bin\Debug\HealthCheck.exe.config
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\HealthCheck\HealthCheck\bin\Debug\HealthCheck.exe
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\HealthCheck\HealthCheck\bin\Debug\HealthCheck.pdb
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\HealthCheck\HealthCheck\obj\Debug\HealthCheck.csprojAssemblyReference.cache
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\HealthCheck\HealthCheck\obj\Debug\HealthCheck.csproj.ResolveComReference.cache
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\HealthCheck\HealthCheck\obj\Debug\EmployeeScreening.g.cs
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\HealthCheck\HealthCheck\obj\Debug\MainWindow.g.cs
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\HealthCheck\HealthCheck\obj\Debug\VisitorRegister.g.cs
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\HealthCheck\HealthCheck\obj\Debug\VisitorScreening.g.cs
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\HealthCheck\HealthCheck\obj\Debug\App.g.cs
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\HealthCheck\HealthCheck\obj\Debug\HealthCheck_MarkupCompile.cache
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\HealthCheck\HealthCheck\obj\Debug\HealthCheck_MarkupCompile.lref
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\HealthCheck\HealthCheck\obj\Debug\EmployeeScreening.baml
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\HealthCheck\HealthCheck\obj\Debug\MainWindow.baml
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\HealthCheck\HealthCheck\obj\Debug\VisitorRegister.baml
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\HealthCheck\HealthCheck\obj\Debug\VisitorScreening.baml
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\HealthCheck\HealthCheck\obj\Debug\HealthCheck.g.resources
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\HealthCheck\HealthCheck\obj\Debug\HealthCheck.Properties.Resources.resources
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\HealthCheck\HealthCheck\obj\Debug\HealthCheck.csproj.GenerateResource.cache
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\HealthCheck\HealthCheck\obj\Debug\HealthCheck.csproj.CoreCompileInputs.cache
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\HealthCheck\HealthCheck\obj\Debug\HealthCheck.exe
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\HealthCheck\HealthCheck\obj\Debug\HealthCheck.pdb
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\bin\Debug\HealthCheck.exe.config
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\bin\Debug\HealthCheck.exe
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\bin\Debug\HealthCheck.pdb
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Debug\HealthCheck.csproj.ResolveComReference.cache
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Debug\EmployeeScreening.g.cs
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Debug\MainWindow.g.cs
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Debug\VisitorRegister.g.cs
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Debug\VisitorScreening.g.cs
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Debug\App.g.cs
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Debug\HealthCheck_MarkupCompile.cache
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Debug\HealthCheck_MarkupCompile.lref
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Debug\EmployeeScreening.baml
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Debug\MainWindow.baml
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Debug\VisitorRegister.baml
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Debug\VisitorScreening.baml
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Debug\HealthCheck.g.resources
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Debug\HealthCheck.Properties.Resources.resources
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Debug\HealthCheck.csproj.GenerateResource.cache
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Debug\HealthCheck.csproj.CoreCompileInputs.cache
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Debug\HealthCheck.exe
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Debug\HealthCheck.pdb
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Debug\MessageBox.g.cs
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Debug\MessageBox.baml
+C:\Users\Tumelo\Documents\D.Code Mobility Stuff\CovidApp Final Project\HealthCheck\HealthCheck\obj\Debug\HealthCheck.csprojAssemblyReference.cache
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\bin\Debug\HealthCheck.exe.config
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\bin\Debug\HealthCheck.exe
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\bin\Debug\HealthCheck.pdb
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Debug\HealthCheck.csprojAssemblyReference.cache
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Debug\HealthCheck.csproj.ResolveComReference.cache
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Debug\EmployeeScreening.g.cs
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Debug\MainWindow.g.cs
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Debug\MessageBox.g.cs
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Debug\VisitorRegister.g.cs
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Debug\VisitorScreening.g.cs
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Debug\App.g.cs
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Debug\HealthCheck_MarkupCompile.cache
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Debug\HealthCheck_MarkupCompile.lref
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Debug\EmployeeScreening.baml
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Debug\MainWindow.baml
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Debug\MessageBox.baml
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Debug\VisitorRegister.baml
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Debug\VisitorScreening.baml
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Debug\HealthCheck.g.resources
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Debug\HealthCheck.Properties.Resources.resources
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Debug\HealthCheck.csproj.GenerateResource.cache
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Debug\HealthCheck.csproj.CoreCompileInputs.cache
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Debug\HealthCheck.exe
+C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Debug\HealthCheck.pdb

@@ -1,0 +1,179 @@
+﻿<Page x:Class="HealthCheck.VisitorScreening"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:HealthCheck"
+      mc:Ignorable="d" 
+      d:DesignHeight="550" d:DesignWidth="800"
+      Title="VisitorScreening">
+
+    <Grid>
+        <Frame IsTabStop="False" Height="550" Width="800" x:Name="VisitorScreeningFrame"></Frame>
+        <Grid x:Name="visitorGrid" Height="550" Width="800">
+            <Grid.RowDefinitions>
+
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+
+                <RowDefinition/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="80"/>
+
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0" Height="38">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0" Height="35">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="50"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Button IsTabStop="False" Grid.Column="0" Height="30" Margin="0,2,10,3">
+                        <Button.Template>
+                            <ControlTemplate>
+                                <Image Source="Pictures/blueCalendar.png"></Image>
+                            </ControlTemplate>
+                        </Button.Template>
+
+                    </Button>
+                    <TextBlock x:Name="DateDisplay" Grid.Column="1" FontSize="18" FontWeight="ExtraBold" VerticalAlignment="Center" HorizontalAlignment="Left"></TextBlock>
+
+                </Grid>
+
+                <Grid Grid.Column="1" Height="35">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="280"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Button IsTabStop="False" Grid.Column="0" Height="30" HorizontalAlignment="Right">
+                        <Button.Template>
+                            <ControlTemplate>
+                                <Image Source="Pictures/blueWatch.png"></Image>
+                            </ControlTemplate>
+                        </Button.Template>
+
+                    </Button>
+                    <Label IsTabStop="False" x:Name="TimeDisplay" Grid.Column="1" FontSize="18" FontWeight="ExtraBold" VerticalAlignment="Center"></Label>
+
+                </Grid>
+
+            </Grid>
+            <Grid Grid.Row="2" Height="290">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition Width="130"/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+
+                        </Grid.RowDefinitions>
+                        <TextBlock Foreground="Orange" Width="220" FontSize="22" FontWeight="ExtraBold" VerticalAlignment="Center">Breathing problem:</TextBlock>
+                        <TextBlock Foreground="Orange" Width="220" Grid.Row="1" FontSize="22" FontWeight="ExtraBold" VerticalAlignment="Center">Cough:</TextBlock>
+                        <TextBlock Foreground="Orange" Width="220" Grid.Row="2" FontSize="22" FontWeight="ExtraBold" VerticalAlignment="Center">Fever:</TextBlock>
+                        <TextBlock Foreground="Orange" Width="220" Grid.Row="3" FontSize="22" FontWeight="ExtraBold" VerticalAlignment="Center">Flue:</TextBlock>
+                        <TextBlock Foreground="Orange" Width="220" Grid.Row="4" FontSize="22" FontWeight="ExtraBold" VerticalAlignment="Center">Red eyes:</TextBlock>
+                        <TextBlock Foreground="Orange" Width="220" Grid.Row="5" FontSize="22" FontWeight="ExtraBold" VerticalAlignment="Center">Sore throat:</TextBlock>
+                        <CheckBox TabIndex="2" BorderBrush="DarkBlue" BorderThickness="3" x:Name="breathingNo" Grid.Column="2" Foreground="Orange" Canvas.Left="20" Canvas.Top="10" Content="NO" FontFamily="Georgia" FontSize="18" FontWeight="Bold"  VerticalAlignment="Center" Checked="breathingNo_Checked"></CheckBox>
+                        <CheckBox TabIndex="1" BorderBrush="DarkBlue" BorderThickness="3" x:Name="breathingYes" Grid.Column="1" Foreground="Orange" Canvas.Left="20" Canvas.Top="10" Content="YES" FontFamily="Georgia" FontSize="18" FontWeight="Bold"  VerticalAlignment="Center" Checked="breathingYes_Checked" HorizontalAlignment="Left" Margin="0,13" Width="130"></CheckBox>
+                        <CheckBox TabIndex="3" BorderBrush="DarkBlue" BorderThickness="3" x:Name="coughYes" Grid.Column="1" Grid.Row="1" Foreground="Orange" Canvas.Left="20" Canvas.Top="10" Content="YES" FontFamily="Georgia" FontSize="16" FontWeight="Bold"  VerticalAlignment="Center" Checked="coughYes_Checked"></CheckBox>
+                        <CheckBox TabIndex="5"  BorderBrush="DarkBlue" BorderThickness="3" x:Name="feverYes" Grid.Column="1" Grid.Row="2" Foreground="Orange" Canvas.Left="20" Canvas.Top="10" Content="YES" FontFamily="Georgia" FontSize="16" FontWeight="Bold"  VerticalAlignment="Center" Checked="feverYes_Checked"></CheckBox>
+                        <CheckBox TabIndex="7" BorderBrush="DarkBlue" BorderThickness="3" x:Name="flueYes" Grid.Column="1" Grid.Row="3" Foreground="Orange" Canvas.Left="20" Canvas.Top="10" Content="YES" FontFamily="Georgia" FontSize="16" FontWeight="Bold"  VerticalAlignment="Center" Checked="flueYes_Checked"></CheckBox>
+                        <CheckBox TabIndex="9" BorderBrush="DarkBlue" BorderThickness="3" x:Name="redeyesYes" Grid.Column="1" Grid.Row="4" Foreground="Orange" Canvas.Left="20" Canvas.Top="10" Content="YES" FontFamily="Georgia" FontSize="16" FontWeight="Bold"  VerticalAlignment="Center" Checked="redeyesYes_Checked"></CheckBox>
+                        <CheckBox TabIndex="11" BorderBrush="DarkBlue" BorderThickness="3" x:Name="soreThroatYes" Grid.Column="1" Grid.Row="5" Foreground="Orange" Canvas.Left="20" Canvas.Top="10" Content="YES" FontFamily="Georgia" FontSize="16" FontWeight="Bold"  VerticalAlignment="Center" Checked="soreThroatYes_Checked"></CheckBox>
+                        <CheckBox TabIndex="4" BorderBrush="DarkBlue" BorderThickness="3" x:Name="coughNo" Grid.Column="2" Grid.Row="1" Foreground="Orange" Canvas.Left="20" Canvas.Top="10" Content="NO" FontFamily="Georgia" FontSize="16" FontWeight="Bold"  VerticalAlignment="Center" Checked="coughNo_Checked"></CheckBox>
+                        <CheckBox TabIndex="6" BorderBrush="DarkBlue" BorderThickness="3" x:Name="feverNo" Grid.Column="2" Grid.Row="2" Foreground="Orange" Canvas.Left="20" Canvas.Top="10" Content="NO" FontFamily="Georgia" FontSize="16" FontWeight="Bold"  VerticalAlignment="Center" Checked="feverNo_Checked"></CheckBox>
+                        <CheckBox TabIndex="8" BorderBrush="DarkBlue" BorderThickness="3" x:Name="flueNo" Grid.Column="2" Grid.Row="3" Foreground="Orange" Canvas.Left="20" Canvas.Top="10" Content="NO" FontFamily="Georgia" FontSize="16" FontWeight="Bold"  VerticalAlignment="Center" Checked="flueNo_Checked"></CheckBox>
+                        <CheckBox TabIndex="10" BorderBrush="DarkBlue" BorderThickness="3" x:Name="redeyesNo" Grid.Column="2" Grid.Row="4" Foreground="Orange" Canvas.Left="20" Canvas.Top="10" Content="NO" FontFamily="Georgia" FontSize="16" FontWeight="Bold"  VerticalAlignment="Center" Checked="redeyesNo_Checked"></CheckBox>
+                        <CheckBox TabIndex="12" BorderBrush="DarkBlue" BorderThickness="3" x:Name="soreThroatNo" Grid.Column="2" Grid.Row="5" Foreground="Orange" Canvas.Left="20" Canvas.Top="10" Content="NO" FontFamily="Georgia" FontSize="16" FontWeight="Bold"  VerticalAlignment="Center" Checked="soreThroatNo_Checked"></CheckBox>
+
+                    </Grid>
+
+                </Grid>
+
+
+            </Grid>
+            <Grid Grid.Row="3" Height="35">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50"/>
+                    <ColumnDefinition Width="180"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Button IsTabStop="False" Height="35" Width="55" HorizontalAlignment="Left">
+                    <Button.Template>
+                        <ControlTemplate>
+                            <Image Source="Pictures/temperature icon.png"></Image>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+                <TextBlock HorizontalAlignment="Left" Foreground="DarkBlue" FontSize="22" Grid.Column="1" FontWeight="ExtraBold" VerticalAlignment="Center">Temperature:</TextBlock>
+                <TextBox TabIndex="13" MaxLength="4" BorderThickness="3" BorderBrush="Red" x:Name="textBoxVisitorTemperature" FontSize="18" FontWeight="ExtraBold" Grid.Column="2" Height="26" Width="120" HorizontalAlignment="Left" TextChanged="textBoxVisitorTemperature_TextChanged"></TextBox>
+            </Grid>
+
+            <Grid Grid.Row="4">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Button TabIndex="14" x:Name="buttonSubmitResults" Foreground="White" HorizontalAlignment="Right" Grid.Column="1" Width="120" Height="30" FontSize="16" FontWeight="Heavy" Background="DarkBlue" Click="buttonSubmitResults_Click">Submit
+                    <Button.Resources>
+                        <Style TargetType="Border">
+                            <Setter Value="12" Property="CornerRadius"/>
+                        </Style>
+                    </Button.Resources>
+                </Button>
+                <Button TabIndex="15" Foreground="White" x:Name="buttonCancel" HorizontalAlignment="Right" Grid.Column="2" Width="120" Height="30" FontSize="16" FontWeight="Heavy" Background="Orange" Click="buttonCancel_Click">Cancel
+                    <Button.Resources>
+                        <Style TargetType="Border">
+                            <Setter Value="12" Property="CornerRadius"/>
+                        </Style>
+                    </Button.Resources>
+                </Button>
+            </Grid>
+
+            <Grid Grid.Row="1" Height="35">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50"/>
+                    <ColumnDefinition Width="200"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Button IsTabStop="False" Grid.Column="0" Height="30" Width="40" HorizontalAlignment="Left">
+                    <Button.Template>
+                        <ControlTemplate>
+                            <Image Source="Pictures/orangePerson.png"></Image>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+                <TextBlock Foreground="DarkBlue" Text="Visitor Name:" Grid.Column="1" FontSize="22" FontWeight="ExtraBold" VerticalAlignment="Center"></TextBlock>
+                <ComboBox TabIndex="0" BorderThickness="3" FontSize="14" FontWeight="ExtraBold" x:Name="comboBoxVisitorName" Height="25" Grid.Column="2" Width="400" HorizontalAlignment="Left" Margin="0,5,0,0" VerticalAlignment="Top"></ComboBox>
+            </Grid>
+
+        </Grid>
+
+
+    </Grid>
+</Page>
