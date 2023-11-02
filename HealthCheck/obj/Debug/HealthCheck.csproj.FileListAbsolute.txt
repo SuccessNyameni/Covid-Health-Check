@@ -133,3 +133,28 @@ C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\ob
 C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Debug\HealthCheck.csproj.CoreCompileInputs.cache
 C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Debug\HealthCheck.exe
 C:\Users\Tumelo\Desktop\Health Check Project\Number 2\HealthCheck\HealthCheck\obj\Debug\HealthCheck.pdb
+C:\Users\DELL\Source\Repos\Covid-Health-Check\HealthCheck\bin\Debug\HealthCheck.exe.config
+C:\Users\DELL\Source\Repos\Covid-Health-Check\HealthCheck\bin\Debug\HealthCheck.exe
+C:\Users\DELL\Source\Repos\Covid-Health-Check\HealthCheck\bin\Debug\HealthCheck.pdb
+C:\Users\DELL\Source\Repos\Covid-Health-Check\HealthCheck\obj\Debug\HealthCheck.csproj.AssemblyReference.cache
+C:\Users\DELL\Source\Repos\Covid-Health-Check\HealthCheck\obj\Debug\HealthCheck.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Source\Repos\Covid-Health-Check\HealthCheck\obj\Debug\HealthCheck.csproj.ResolveComReference.cache
+C:\Users\DELL\Source\Repos\Covid-Health-Check\HealthCheck\obj\Debug\EmployeeScreening.g.cs
+C:\Users\DELL\Source\Repos\Covid-Health-Check\HealthCheck\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Source\Repos\Covid-Health-Check\HealthCheck\obj\Debug\MessageBox.g.cs
+C:\Users\DELL\Source\Repos\Covid-Health-Check\HealthCheck\obj\Debug\VisitorRegister.g.cs
+C:\Users\DELL\Source\Repos\Covid-Health-Check\HealthCheck\obj\Debug\VisitorScreening.g.cs
+C:\Users\DELL\Source\Repos\Covid-Health-Check\HealthCheck\obj\Debug\App.g.cs
+C:\Users\DELL\Source\Repos\Covid-Health-Check\HealthCheck\obj\Debug\HealthCheck_MarkupCompile.cache
+C:\Users\DELL\Source\Repos\Covid-Health-Check\HealthCheck\obj\Debug\HealthCheck_MarkupCompile.lref
+C:\Users\DELL\Source\Repos\Covid-Health-Check\HealthCheck\obj\Debug\EmployeeScreening.baml
+C:\Users\DELL\Source\Repos\Covid-Health-Check\HealthCheck\obj\Debug\MainWindow.baml
+C:\Users\DELL\Source\Repos\Covid-Health-Check\HealthCheck\obj\Debug\MessageBox.baml
+C:\Users\DELL\Source\Repos\Covid-Health-Check\HealthCheck\obj\Debug\VisitorRegister.baml
+C:\Users\DELL\Source\Repos\Covid-Health-Check\HealthCheck\obj\Debug\VisitorScreening.baml
+C:\Users\DELL\Source\Repos\Covid-Health-Check\HealthCheck\obj\Debug\HealthCheck.g.resources
+C:\Users\DELL\Source\Repos\Covid-Health-Check\HealthCheck\obj\Debug\HealthCheck.Properties.Resources.resources
+C:\Users\DELL\Source\Repos\Covid-Health-Check\HealthCheck\obj\Debug\HealthCheck.csproj.GenerateResource.cache
+C:\Users\DELL\Source\Repos\Covid-Health-Check\HealthCheck\obj\Debug\HealthCheck.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Source\Repos\Covid-Health-Check\HealthCheck\obj\Debug\HealthCheck.exe
+C:\Users\DELL\Source\Repos\Covid-Health-Check\HealthCheck\obj\Debug\HealthCheck.pdb
