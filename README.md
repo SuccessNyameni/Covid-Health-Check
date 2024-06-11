@@ -1,4 +1,5 @@
-# Covid Health Check
+# Covid Health Check - Completed.
+
  Covid 19 Symtptoms check
  Employees use the application to check in their Covid 19 symptoms and temperature before signing into work everyday.
  The application uses an Excel sheet saved on local machine as a database to store the data from the application.
